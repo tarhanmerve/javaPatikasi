@@ -5,7 +5,7 @@ public class UcgenAlan {
 
         Scanner input = new Scanner(System.in);
         System.out.print("1. kenari giriniz: ");
-        a= input.nextInt();
+        a= input.nextDouble();
         System.out.print("2. kenari giriniz: ");
         b= input.nextDouble();
         System.out.print("3. kenari giriniz: ");
